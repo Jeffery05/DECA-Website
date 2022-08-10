@@ -44,22 +44,6 @@ p {font-size: 18px;}
     z-index: 10;
 }
 
-.carousel-item {
-    height: 40rem;
-    max-width: 100vw;
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-}
-
-.carousel-item-ACED {
-    height: 40rem;
-    max-width: 100vw;
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-}
-
 .welcome-carousel-image1{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
     background-image: url('images/2019-2020\ Marketing\ Photo.jpg')
@@ -97,27 +81,72 @@ p {font-size: 18px;}
 
 .ACED-carousel-image2{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/First\ DECA\ Meet.jpg')
+    background-image: url('images/ACED\ Chapter\ Photo.jpg')
 }
 
 .ACED-carousel-image3{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/First\ DECA\ Meet.jpg')
+    background-image: url('images/HolidayCaseCompetition2.png')
 }
 
 .ACED-carousel-image4{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/First\ DECA\ Meet.jpg')
+    background-image: url('images/HolidayCaseCompetition3.png')
 }
 
 .ACED-carousel-image5{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/First\ DECA\ Meet.jpg')
+    background-image: url('images/HolidayCaseCompetition4.png')
 }
 
 .ACED-carousel-image6{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/First\ DECA\ Meet.jpg')
+    background-image: url('images/HolidayCaseCompetition5.jpg')
+}
+
+.ACED-carousel-image7{
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+    background-image: url('images/HolidayCaseCompetition6.jpg')
+}
+
+.ACED-carousel-image8{
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+    background-image: url('images/EasterCaseCompetition1.png')
+}
+
+.ACED-carousel-image9{
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+    background-image: url('images/EasterCaseCompetition2.png')
+}
+
+.ACED-carousel-image10{
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+    background-image: url('images/DECA\ Dinner.jpg')
+}
+
+.DECA20-carousel-image1{
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+    background-image: url('images/DECA\ Dinner.jpg')
+}
+
+.DECA20-carousel-image1{
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+    background-image: url('images/COVID_DECA1.png')
+}
+
+.DECA20-carousel-image2{
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+    background-image: url('images/COVID_DECA2.png')
+}
+
+.DECA20-carousel-image3{
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+    background-image: url('images/COVID_DECA3.png')
+}
+
+.DECA20-carousel-image4{
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+    background-image: url('images/COVID_DECA4.png')
 }
 
 .btn-default{
