@@ -25,9 +25,20 @@ textarea {
 p {font-size: 18px;}
 
 .jumbotron-welcome{
-    background: url('images/MainPageBackground.webp') no-repeat fixed;
+    background: url('images/DECA\ Stage.jpg') no-repeat fixed;
 }
 
+.jumbotron-DECAMackenzie{
+    background: url('images/DECA\ Logo.png') no-repeat fixed;
+}
+
+.jumbotron-WhyJoin{
+    background: url('images/Why\ Join.jpg') no-repeat fixed;
+}
+
+.jumbotron-HowToApply{
+    background: url('images/HowToApply.jpg') no-repeat fixed;
+}
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
@@ -270,6 +281,6 @@ p {font-size: 18px;}
 
 .jumbotron{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0);
-    height: 75vh;
+    height: 65vh;
     background-size: cover;
 }
