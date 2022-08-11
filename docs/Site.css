@@ -151,37 +151,37 @@ p {font-size: 18px;}
 
 .DECA19-carousel-image2{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image2.HEIC')
+    background-image: url('images/DECA19_Image2.jpg')
 }
 
 .DECA19-carousel-image3{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image3.HEIC')
+    background-image: url('images/DECA19_Image3.jpg')
 }
 
 .DECA19-carousel-image4{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image4.HEIC')
+    background-image: url('images/DECA19_Image4.jpg')
 }
 
 .DECA19-carousel-image5{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image5.HEIC')
+    background-image: url('images/DECA19_Image5.jpg')
 }
 
 .DECA19-carousel-image6{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image6.HEIC')
+    background-image: url('images/DECA19_Image6.jpg')
 }
 
 .DECA19-carousel-image7{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image7.JPG')
+    background-image: url('images/DECA19_Image7.jpg')
 }
 
 .DECA19-carousel-image8{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image8.HEIC')
+    background-image: url('images/DECA19\ Image8.JPG')
 }
 
 .DECA19-carousel-image9{
@@ -191,22 +191,22 @@ p {font-size: 18px;}
 
 .DECA19-carousel-image10{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image10.HEIC')
+    background-image: url('images/DECA19_Image10.jpg')
 }
 
 .DECA19-carousel-image11{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image11.HEIC')
+    background-image: url('images/DECA19_Image11.jpg')
 }
 
 .DECA19-carousel-image12{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image12.HEIC')
+    background-image: url('images/DECA19_Image12.jpg')
 }
 
 .DECA19-carousel-image13{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image13.HEIC')
+    background-image: url('images/DECA19_Image13.jpg')
 }
 
 .DECA19-carousel-image14{
@@ -246,7 +246,12 @@ p {font-size: 18px;}
 
 .DECA19-carousel-image21{
     box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
-    background-image: url('images/DECA19\ Image21.jpg')
+    background-image: url('images/DECA19_Image21.jpg')
+}
+
+.DECA19-carousel-image22{
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.3);
+    background-image: url('images/DECA19\ Image22.jpg')
 }
 
 .btn-default{
