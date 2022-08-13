@@ -1,2 +1,2 @@
 # DECA-Website
-The official website for William Lyon Mackenzie's DECA Chapter.
+The official website for William Lyon Mackenzie's DECA Chapter! Link: DECAMackenzie.ca
